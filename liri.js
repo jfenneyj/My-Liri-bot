@@ -1,4 +1,4 @@
-require("dotenv").confiq();
+require("dotenv").config();
 
 //packages
 var keys = require("./keys.js");
